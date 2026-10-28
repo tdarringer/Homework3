@@ -1,0 +1,83 @@
+site_id,facility_name,n_matches,district_id
+LIB001,Albany Park,1,13
+LIB002,Altgeld,1,54
+LIB003,Archer Heights,1,57
+LIB004,Austin,1,25
+LIB005,Austin-Irving,1,15
+LIB006,Avalon,1,45
+LIB007,Back of the Yards,1,61
+LIB008,Beverly,1,72
+LIB009,Bezazian,1,3
+LIB010,Blackstone,1,39
+LIB011,Brainerd,1,71
+LIB012,Brighton Park,1,58
+LIB013,Bucktown-Wicker Park,1,24
+LIB014,Budlong Woods,1,2
+LIB015,Canaryville,1,61
+LIB016,Chicago Bee,1,35
+LIB017,Chicago Lawn,1,66
+LIB018,Chinatown,1,34
+LIB019,Clearing,1,64
+LIB020,Coleman,1,42
+LIB021,"Daley, Richard J.",1,60
+LIB022,"Daley, Richard M.",1,23
+LIB023,Douglass,1,29
+LIB024,Dunning,1,17
+LIB025,Edgebrook,1,12
+LIB026,Edgewater,1,77
+LIB027,Gage Park,1,63
+LIB028,Galewood-Mont Clare,1,18
+LIB029,Garfield Ridge,1,56
+LIB030,Greater Grand Crossing,1,69
+LIB031,Hall,1,38
+LIB032,Harold Washtington Library Center,1,32
+LIB033,Hegewisch,1,55
+LIB034,Humboldt Park,1,23
+LIB035,Independence,1,16
+LIB036,Jefferson Park,1,15
+LIB037,Jeffery Manor,1,51
+LIB038,Kelly,1,68
+LIB039,King,1,35
+LIB040,Legler Regional,1,26
+LIB041,Lincoln Belmont,1,6
+LIB042,Lincoln Park,1,7
+LIB043,Little Italy,1,28
+LIB044,Little Village,1,30
+LIB045,Logan Square,1,22
+LIB046,Lozano,1,31
+LIB047,Manning,1,28
+LIB048,Mayfair,1,14
+LIB049,McKinley Park,1,59
+LIB050,Merlo,1,6
+LIB051,Mount Greenwood,1,74
+LIB052,Near North,1,8
+LIB053,North Austin,1,25
+LIB054,North Pulaski,1,23
+LIB055,Northtown,1,2
+LIB056,Obama Presidential Center Library,1,42
+LIB057,Oriole Park,1,10
+LIB058,Portage-Cragin,1,15
+LIB059,Pullman,1,49
+LIB060,Roden,1,10
+LIB061,Rogers Park,1,1
+LIB062,Scottsdale,1,70
+LIB063,Sherman Park,1,61
+LIB064,South Chicago,1,46
+LIB065,South Shore,1,43
+LIB066,Sulzer Regional Library,1,4
+LIB067,Thurgood Marshall,1,71
+LIB068,Toman,1,30
+LIB069,Uptown,1,3
+LIB070,Vodak-East Side,1,52
+LIB071,Walker,1,75
+LIB072,Water Works,1,8
+LIB073,West Belmont,1,19
+LIB074,West Chicago Avenue,1,25
+LIB075,West Englewood,1,67
+LIB076,West Lawn,1,65
+LIB077,West Loop,1,28
+LIB078,West Pullman,1,53
+LIB079,West Town,1,24
+LIB080,"Whitney M. Young, Jr.",1,44
+LIB081,Woodson Regional Library,1,73
+LIB082,Wrightwood-Ashburn,1,70

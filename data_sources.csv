@@ -1,0 +1,3 @@
+dataset,publisher,source_page,raw_file,date_accessed,notes
+"Libraries - Locations, Contact Information, and Usual Hours of Operation",City of Chicago / Chicago Public Library,https://data.cityofchicago.org/d/x8fc-8rcq,data_raw/libraries.csv,2026-10-28,Official CSV export; LOCATION coordinates converted to points; hours may not reflect temporary closures
+Boundaries - Community Areas,City of Chicago,https://data.cityofchicago.org/d/igwz-8jzy,data_raw/community_areas.geojson,2026-10-28,Official GeoJSON download; community-area boundaries
